@@ -10,10 +10,6 @@ Construo sistemas confiáveis, testados e prontos para produção.
 - ✅ **Qualidade automatizada**: testes unitários, regressão e BDD (Gherkin)
 - 🔁 **Pipelines de CI/CD** que reduzem retrabalho e erros em produção
 
-## Projeto em destaque
-| Projeto | Problema que resolve | Stack | Demo |
-|---|---|---|---|
-| [projeto-vitrine](https://github.com/SEU_USUARIO/projeto-vitrine) | Gestão de tarefas com autenticação e segurança por usuário | React, Supabase, Docker, GitHub Actions | [Ver online](https://SEU-DEMO.vercel.app) |
 
 ## Stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
